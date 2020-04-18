@@ -1,0 +1,19 @@
+{
+  "name": "provisioner",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Kevin Wei",
+  "license": "ISC",
+  "dependencies": {
+    "pidusage": "^2.0.18",
+    "vm2": "^3.9.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  }
+}
